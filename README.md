@@ -1,62 +1,100 @@
-**Sunatillo Marabjanov**  
-Backend Developer | Tashkent, Uzbekistan  
-[GitHub: Sunatillo2024](https://github.com/Sunatillo2024) | Python, FastAPI, PostgreSQL, Docker, CI/CD  
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Sunatillo Marabjanov</h1>
+<h3 align="center">🚀 Backend Developer | Python Enthusiast | AI & DevOps Learner</h3>
+
+<p align="center">
+  <a href="https://github.com/Sunatillo2024">
+    <img src="https://img.shields.io/badge/GitHub-Sunatillo2024-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:sunatillo.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### OBJECTIVE
-Aspiring backend developer with strong knowledge in Python and system design, aiming to join Google as a Software Engineer. Passionate about scalable systems, clean architecture, and learning from the best engineers in the world.
+## 🌟 About Me
+- 💻 Backend Developer passionate about **scalable systems & clean architecture**  
+- 🛠 Skilled in **Python, FastAPI, Django, PostgreSQL, Docker, CI/CD**  
+- 🤖 Experienced in **Telegram Bots, FinTech APIs, E-commerce platforms**  
+- 🚀 Goal: Join **Google / FAANG** as a Software Engineer in 1–2 years  
+- 📚 Currently: Preparing for **IELTS 9.0** + solving **LeetCode DSA problems daily**  
 
 ---
 
-### EDUCATION
-**PDP Academy (Tashkent, Uzbekistan)** — Python Development Certificate  
-*2023 – 2024*  
-- Studied backend development with Python, PostgreSQL, Docker, and Git  
-- Built real-world apps and deployed them on servers with Docker  
+## 🛠 Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+
+**Frameworks & Libraries:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![DRF](https://img.shields.io/badge/DRF-009688?style=for-the-badge&logo=django&logoColor=white)  
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  
+
+**Databases & Tools:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+
+**DevOps & Deployment:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-### EXPERIENCE
+## 🚀 Featured Projects
 
-**Backend Developer (Freelance & Projects)**  
-*2023 – Present*  
-- Developed several production-level Telegram bots using aiogram 3 and PostgreSQL  
-- Designed APIs with FastAPI and Django, built full-featured e-commerce bots  
-- Deployed services using Docker, Nginx, and GitHub Actions for CI/CD  
-- Created a structured PostgreSQL schema with relationships (users, products, cart, orders)
+### 💳 FinTech
+🔹 **[FinTech_DRF_API_M_BANK](https://github.com/Sunatillo2024/FinTech_DRF_API_M_BANK)**  
+Banking/Wallet System API with **DRF + JWT Auth + PostgreSQL**  
 
 ---
 
-### PROJECTS
+### 🛒 E-commerce
+🔹 **[mobile_shop_tg_bot](https://github.com/Sunatillo2024/mobile_shop_tg_bot)**  
+Telegram Shop Bot with cart, payments, and admin panel  
 
-**UZGEN_SHOP_CLOTHES Bot**  
-- Telegram bot for an online clothing store with cart, delivery, payments, and admin panel  
-- Python + aiogram 3 + PostgreSQL + Docker  
-
-**ONLINE_SHOP_UZ_KG**  
-- Full backend for an online store with FastAPI  
-- Includes product catalog, basket logic, address handling, and order management  
-
-**Learning Projects**  
-- 50+ Leetcode-style problems solved in Python  
-- Telegram weather bot using OpenWeather API  
-- CRUD ToDo app with FastAPI and SQLite  
+🔹 **ViewStore (Private)**  
+Full Online Marketplace (**2+ years of development**) with products, orders, authentication, and admin panel  
 
 ---
 
-### SKILLS
-
-- **Languages:** Python, SQL, Bash  
-- **Frameworks:** FastAPI, Django, aiogram  
-- **Tools:** PostgreSQL, Docker, Git, GitHub Actions  
-- **Concepts:** REST API, system design, CI/CD, scalable backend architecture  
+### 📝 APIs
+🔹 **[django_drf_api_notes](https://github.com/Sunatillo2024/django_drf_api_notes)** — Notes API with authentication  
+🔹 **[Movie_api_firts](https://github.com/Sunatillo2024/Movie_api_firts)** — Movie catalog API  
 
 ---
 
-### ACTIVITIES & GOALS
+### ⚡ Learning Projects
+🔹 **[FastAPI_APP_crud](https://github.com/Sunatillo2024/FastAPI_APP_crud)** — CRUD app with FastAPI  
+🔹 **[LevelUpAi](https://github.com/Sunatillo2024/LevelUpAi)** — AI + Python experiments  
+🔹 **[VizoChat](https://github.com/Sunatillo2024/VizoChat)** — Prototype chat app  
 
-- Preparing for **IELTS** (Target Band 9)  
-- Studying **DSA** with Leetcode (daily problems)  
-- Writing clean, testable code and open-sourcing Telegram bot projects  
-- Goal: Join Google or top-tier tech company within the next 1–2 years  
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunatillo2024&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunatillo2024&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sunatillo2024&theme=tokyonight&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+- 💼 [GitHub: Sunatillo2024](https://github.com/Sunatillo2024)  
+- 📧 Email: **sunatillo.dev@gmail.com**  
+- 📍 Location: Tashkent, Uzbekistan  
+
+---
+✨ *Always learning, always creating!* 🚀

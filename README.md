@@ -92,7 +92,7 @@ Full Online Marketplace (**2+ years of development**) with products, orders, aut
 
 ---
 
-![snake gif](https://github.com//Sunatillo2024/Sunatillo2024/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Sunatillo2024/Sunatillo2024/output/github-snake-dark.svg)
 
 
 ---

@@ -48,6 +48,7 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 ### 💳 FinTech
@@ -90,6 +91,12 @@ Full Online Marketplace (**2+ years of development**) with products, orders, aut
 </p>
 
 ---
+
+![snake gif](https://github.com//Sunatillo2024/Sunatillo2024/blob/output/github-snake-dark.svg)
+
+
+---
+
 
 ## 🌍 Connect With Me
 - 💼 [GitHub: Sunatillo2024](https://github.com/Sunatillo2024)  

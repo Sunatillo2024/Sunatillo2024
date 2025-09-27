@@ -103,8 +103,8 @@ Full Online Marketplace (**2+ years of development**) with products, orders, aut
 ---
 
 ### 📝 APIs
-🔹 **[django_drf_api_notes](https://github.com/Sunatillo2024/django_drf_api_notes)** — Notes API with authentication  
-🔹 **[Movie_api_firts](https://github.com/Sunatillo2024/Movie_api_firts)** — Movie catalog API  
+🔹 **[django_drf_api_note](https://github.com/Sunatillo2024/django_drf_api_note)** — Notes API with authentication and crud operations 
+🔹 **[app-news_drf_api](https://github.com/Sunatillo2024/app-news_drf_api)** — Fullstack api  
 
 ---
 

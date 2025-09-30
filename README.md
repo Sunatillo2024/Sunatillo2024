@@ -128,7 +128,7 @@ Full Online Marketplace (**2+ years of development**) with products, orders, aut
 
 ## 🌍 Connect With Me
 - 💼 [GitHub: Sunatillo2024](https://github.com/Sunatillo2024)  
-- 📧 Email: **sunatillo.dev@gmail.com**  
+- 📧 Email: **sunatlohgafur1214@gmail.com**  
 - 📍 Location: Tashkent, Uzbekistan  
 
 ---

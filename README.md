@@ -22,8 +22,13 @@
 
 ---
 
-## 📄 CV Preview
-<iframe src="./cv.pdf" width="100%" height="600"></iframe>
+## 🌐 My Web Portfolio
+[Visit my Portfolio Website](https://sunatillo2024.github.io/Portfolio/)
+
+
+---
+## 📄 My CV
+[Click here to view my CV](https://github.com/Sunatillo2024/cv_ms/blob/main/cv.pdf)
 
 ---
 

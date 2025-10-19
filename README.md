@@ -28,7 +28,7 @@
 
 ---
 ## 📄 My CV
-[Click here to view my CV](https://github.com/Sunatillo2024/cv_ms/blob/main/cv.pdf)
+[Click here to view my CV](https://github.com/Sunatillo2024/cv_ms/blob/main/Marufjanov-Sunatillo_cv.pdf)
 
 ---
 

@@ -9,10 +9,10 @@
   <a href="https://github.com/Sunatillo2024">
     <img src="https://img.shields.io/badge/GitHub-Sunatillo2024-black?style=flat&logo=github" />
   </a>
-  <a href="mailto:sunatillo.dev@gmail.com">
+  <a href="mailto:sunatlohgafur1214@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://t.me/sunatillo_dev">
+  <a href="https://t.me/jinja_1">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>

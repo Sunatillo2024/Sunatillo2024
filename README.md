@@ -15,10 +15,10 @@
   <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 <a href="https://t.me/drf_2026">
-  <img src="https://img.shields.io/badge/Telegram-@jigar__ms-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Telegram-@drf_2026-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE"/>
 </a>
 <a href="https://sunatillo2024.github.io/Sunatillo-dev_ai">
-  <img src="https://img.shields.io/badge/Portfolio-Projects-111827?style=for-the-badge&logo=firefox&logoColor=22D3EE"/>
+  <img src="https://img.shields.io/badge/Sunatillo-dev_ai-111827?style=for-the-badge&logo=firefox&logoColor=22D3EE"/>
 </a>
 
 <br/><br/>

@@ -430,13 +430,18 @@ Engineering
 
 # 🧩 LeetCode
 
+
 <div align="center">
 
-<a href="https://leetcode.com/sunatillo_dev">
-<img src="https://leetcard.jacoblin.cool/sunatillo_dev?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
-</a>
+  <a href="https://leetcode.com/u/LyhuVx63Gl/">
+    <img
+      src="https://leetcard.jacoblin.cool/LyhuVx63Gl?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10"
+      alt="Sunatillo's LeetCode Stats"
+    />
+  </a>
 
 </div>
+
 
 ---
 
